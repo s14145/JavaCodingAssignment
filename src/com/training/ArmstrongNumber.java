@@ -4,7 +4,7 @@ public class ArmstrongNumber {
 
 	public static void main(String[] args) {
 		
-		/*
+		
 		int n=153;
 		int sum=0;
 		int c;
@@ -24,7 +24,7 @@ public class ArmstrongNumber {
 		}else {
 			System.out.println(sum+" is not a Amstrong Number");
 		}
-		*/
+		
 		
 		
 		
@@ -32,6 +32,8 @@ public class ArmstrongNumber {
 	}
 
 }
+
+
 
 /*
  * JDBC is database dependent which means that if we change the database then jdbc driver has to be changed as well
